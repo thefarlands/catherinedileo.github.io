@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body> 
-<pre>
+<p>
   is an alien an animal?
     
     Does it pad around on soft feet?
@@ -28,6 +28,6 @@
     Corpus beaded with a predawn dew
     Patiently awaiting a fated cue
     It hastens to ask if you’re an animal too. 
-<\pre>
+<\p>
 <\body>
 <\html>
